@@ -18,7 +18,7 @@ namespace RockPaperScissors__lt_LoganWinscher
             Console.WriteLine("Welcome to Rock Paper Scissors Lizard Spock!");
             Console.WriteLine("First to 5 wins!");
 
-
+            
             string computerChoice = choices[rnd.Next(choices.Length)];
             string playerChoice = choices[rnd.Next(choices.Length)];
 
